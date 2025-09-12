@@ -18,9 +18,12 @@
     margin-bottom: 100px;
 }
 .site__title em {
+    display: inline-block;
     font-size: 1.25rem;
     font-weight: 400;
     line-height: 2;
+    transform: translateY(-5px);
+    
 }
 .site__item {
     height: 70vh;
